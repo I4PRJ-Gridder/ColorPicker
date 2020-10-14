@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mvraa\\Dropbox\\ColorPicker\\ColorPicker\\ColorPicker.csproj",
+      "projectUniqueName": "C:\\Users\\mvraa\\Documents\\GitHub\\ColorPicker\\ColorPicker\\ColorPicker.csproj",
       "projectName": "ColorPicker",
-      "projectPath": "C:\\Users\\mvraa\\Dropbox\\ColorPicker\\ColorPicker\\ColorPicker.csproj",
+      "projectPath": "C:\\Users\\mvraa\\Documents\\GitHub\\ColorPicker\\ColorPicker\\ColorPicker.csproj",
       "packagesPath": "C:\\Users\\mvraa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mvraa\\Dropbox\\ColorPicker\\ColorPicker\\obj\\",
+      "outputPath": "C:\\Users\\mvraa\\Documents\\GitHub\\ColorPicker\\ColorPicker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mvraa\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -146,3 +146,40 @@ C:\Users\mvraa\Desktop\ColorPicker - Copy\ColorPicker\obj\Debug\netcoreapp3.1\Co
 C:\Users\mvraa\Desktop\ColorPicker - Copy\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.pdb
 C:\Users\mvraa\Desktop\ColorPicker - Copy\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.genruntimeconfig.cache
 C:\Users\mvraa\Desktop\ColorPicker - Copy\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.csproj.CopyComplete
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.exe
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.deps.json
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.runtimeconfig.json
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.runtimeconfig.dev.json
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.dll
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.pdb
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.Views.dll
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\bin\Debug\netcoreapp3.1\ColorPicker.Views.pdb
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.csprojAssemblyReference.cache
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.AssemblyInfoInputs.cache
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.AssemblyInfo.cs
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.csproj.CoreCompileInputs.cache
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.RazorAssemblyInfo.cache
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.RazorAssemblyInfo.cs
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.TagHelpers.input.cache
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.TagHelpers.output.cache
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.RazorCoreGenerate.cache
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.RazorTargetAssemblyInfo.cache
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.RazorTargetAssemblyInfo.cs
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.Views.pdb
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\staticwebassets\ColorPicker.StaticWebAssets.Manifest.cache
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\staticwebassets\ColorPicker.StaticWebAssets.xml
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.dll
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.pdb
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.genruntimeconfig.cache
+C:\Users\mvraa\Documents\GitHub\ColorPicker\ColorPicker\obj\Debug\netcoreapp3.1\ColorPicker.csproj.CopyComplete
